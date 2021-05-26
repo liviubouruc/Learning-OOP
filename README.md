@@ -1,2 +1,2 @@
 # Learning-OOP
-Colocvii rezolvate la POO
+Colocvii rezolvate integral sau partial la POO
